@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hapjeong-shirts-note.banpo-massage-review.xyz/sitemap.xml
+Sitemap: https://hapjeong-shirts-note.banpo-massage-review.xyz/sitemap-pages.xml
